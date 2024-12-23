@@ -7,3 +7,7 @@
 #  -> Length of the longest substring without repeating characters
 #  -> Count distinct elements in every window of size k
 
+=> Two pointers Algorithm:
+  -> Duplicate find
+  -> palindrome, pairs related, reverse(till specific index)
+  -> sorted then merge
