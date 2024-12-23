@@ -12,7 +12,7 @@
 #   -> palindrome, pairs related, reverse(till specific index)
 #   -> sorted then merge
 
-=> Divide & Conquer Algorithm
-=> Binary Search ( its extension of divide & conquer algo), only diff is Binary Search, we apply on sorted things(sorted array or sorted Linked List)
-=> Recursion, Dynamic Programming (for optimization more)
+# => Divide & Conquer Algorithm
+# => Binary Search ( its extension of divide & conquer algo), only diff is Binary Search, we apply on sorted things(sorted array or sorted Linked List)
+# => Recursion, Dynamic Programming (for optimization more)
 
